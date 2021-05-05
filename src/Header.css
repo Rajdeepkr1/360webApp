@@ -1,0 +1,10 @@
+
+.header__right{
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    background-color: rgb(114, 7, 114);
+    
+  
+
+}

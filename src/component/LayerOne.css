@@ -1,0 +1,15 @@
+.layer__one{
+    
+    background-image: url("https://9to5mac.com/wp-content/uploads/sites/6/2017/11/caseology-banner.jpg?quality=82&strip=all&w=1600");
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+}
+
+.box__flex{
+    display: flex;
+    justify-content: space-evenly;
+}
+

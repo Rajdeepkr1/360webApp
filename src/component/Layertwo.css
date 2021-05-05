@@ -1,0 +1,12 @@
+.pro__file{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.hd{
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
